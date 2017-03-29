@@ -47,6 +47,7 @@ Learn how to [Link Your Free App to a Licensed Cloud Node](how-to-link-app-to-no
 The next step is to transfer the data of the app on Mendix Cloud v3 to the App on Mendix Cloud v4.
 
 Learn [How to Download a Backup](/howtogeneral/mendixcloud/how-to-download-a-backup) of your app on Mendix Cloud v3.
+
 Learn [How to Restore a Backup](/howtogeneral/mendixcloud/how-to-restore-a-backup).
 
 ### 3.4 Deploy the Deployment Package to an Environment
